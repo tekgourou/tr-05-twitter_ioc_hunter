@@ -2,7 +2,7 @@
 
 Create Twitter IOC Hunter module in Cisco SecureX.
 
-[Twitter IOC Hunter](http://tweettioc.com/) is a useful website that lists tweets including IOCs such as IP, domain, URL, MD5, SHA1 and SHA256 hashes. The service has been developpe by [Fatih Sirin]( https://www.linkedin.com/in/fatih-s-541bbb116/).
+[Twitter IOC Hunter](http://tweettioc.com/) is a useful website that lists tweets including IOCs such as IP, domain, URL, MD5, SHA1 and SHA256 hashes. The service has been developed by [Fatih Sirin]( https://www.linkedin.com/in/fatih-s-541bbb116/).
 
 ![image](img/dashboard.png)
 
